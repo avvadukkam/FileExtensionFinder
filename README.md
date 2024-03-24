@@ -9,9 +9,9 @@ This Python script reads files in a specified directory, determines their file t
 
 ## Usage
 
-1. Clone the repository or download the `file_extension_renamer.py` script.
+1. Clone the repository or download the `file_extension_finder.py` script.
 2. Ensure you have Python installed on your system.
-3. Run the script by executing `python file_extension_renamer.py`.
+3. Run the script by executing `python file_extension_finder.py`.
 4. Select the folder containing the files when prompted using the GUI.
 5. The script will then iterate through each file in the directory, identify its file type, and rename it accordingly.
 
